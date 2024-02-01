@@ -1,12 +1,13 @@
                                                                👋 Hi there, I’m Sabaree
 
-                                                                     Cloud Developer
+                                                                    Cloud Developer
  
 
 
 - 🌱 I’m currently learning  Python, SQL, Excel, ML, Power BI 
-- ⚡ Fun fact "It all started with printing "Hello-world!" 
-  
+- ⚡ Fun fact "It all started with printing "Hello-world!"
+-     A Data Scientist Aspirant
+
 
 
 <!---
