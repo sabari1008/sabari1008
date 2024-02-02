@@ -4,9 +4,9 @@
  
 
 
-- 🌱 I’m currently learning  Python, SQL, Excel, ML, Power BI 
+- 🌱 I’m currently learning  Python, SQL, MS Excel, ML, Power BI , PMP
 - ⚡ Fun fact "It all started with printing "Hello-world!"
--     A Data Scientist Aspirant
+
 
 
 
