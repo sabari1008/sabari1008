@@ -5,7 +5,7 @@
  
 
 
-- 🌱 I’m currently learning  Python, SQL, MS Excel, ML, Power BI , 
+- 🌱 I’m currently learning  Python, SQL, MS Excel, ML, Power BI  
 - ⚡ Fun fact "It all started with printing "Hello-world!"
 
 
