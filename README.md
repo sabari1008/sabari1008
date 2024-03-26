@@ -1,11 +1,11 @@
                                                                👋 Hi there, I’m Sabaree
 
                                                                     Cloud Developer
-                                                                 Aspiring Data Analyst
+                                                                 Aspiring Data Scientist
  
 
 
-- 🌱 I’m currently learning  Python, SQL, MS Excel, ML, Power BI  
+- 🌱 I’m currently learning  Python, SQL, ML, Power BI  
 - ⚡ Fun fact "It all started with printing "Hello-world!"
 
 
